@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddressDumper", "AddressDumper\AddressDumper.vcxproj", "{04429F50-0848-45BE-9D4D-F499C2522EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04429F50-0848-45BE-9D4D-F499C2522EA1}.Debug|x64.ActiveCfg = Debug|x64
+		{04429F50-0848-45BE-9D4D-F499C2522EA1}.Debug|x64.Build.0 = Debug|x64
+		{04429F50-0848-45BE-9D4D-F499C2522EA1}.Debug|x86.ActiveCfg = Debug|Win32
+		{04429F50-0848-45BE-9D4D-F499C2522EA1}.Debug|x86.Build.0 = Debug|Win32
+		{04429F50-0848-45BE-9D4D-F499C2522EA1}.Release|x64.ActiveCfg = Release|x64
+		{04429F50-0848-45BE-9D4D-F499C2522EA1}.Release|x64.Build.0 = Release|x64
+		{04429F50-0848-45BE-9D4D-F499C2522EA1}.Release|x86.ActiveCfg = Release|Win32
+		{04429F50-0848-45BE-9D4D-F499C2522EA1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {264454D2-DE9E-4E77-9B2E-65003647B1ED}
+	EndGlobalSection
+EndGlobal
