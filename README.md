@@ -1,6 +1,12 @@
 # AddressDumper
 A lua c function offset dumper for roblox!
 
+# Instructions
+Build as a console app c++ (not a dll) (as the dumper is external)<br/>
+Build in x86 release
+
+
+
 # Credits
 Static - EyeCrawl (https://github.com/thedoomed/EyeCrawl/)
 
