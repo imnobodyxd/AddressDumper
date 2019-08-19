@@ -76,7 +76,6 @@ int main()
 	unsigned int LOADEDResults = EyeCrawl::util::getprologue(EyeCrawl::util::scanpointer(LOADEDString)[0]);
 	RESULTS LOADEDCFunctions = EyeCrawl::util::getcalls(LOADEDResults);
 
-
 	LogCFunction("lua_getfield", LOADEDCFunctions[1]);
 	LogCFunction("lua_settop", LOADEDCFunctions[2]);
 	LogCFunction("lua_pushvalue", LOADEDCFunctions[4]);
